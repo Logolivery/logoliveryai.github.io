@@ -6,4 +6,4 @@ Allow: /img/favicon/
 Allow: /img/thumbnail/badge.png
 Allow: /index.html
 
-Sitemap: https://logolivery.ai/sitemap.xml
+Sitemap: https://www.logolivery.ai/sitemap.xml
