@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /img/
+Disallow: /script/
+Disallow: /style/
+Allow: /img/favicon/
+Allow: /img/thumbnail/badge.png
+Allow: /index.html
+
+Sitemap: https://logolivery.ai/sitemap.xml
